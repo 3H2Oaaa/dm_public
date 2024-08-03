@@ -1,0 +1,3 @@
+F:/learning_file/cpp/git_test/cmake-build-debug/CMakeFiles/git_test.dir
+F:/learning_file/cpp/git_test/cmake-build-debug/CMakeFiles/edit_cache.dir
+F:/learning_file/cpp/git_test/cmake-build-debug/CMakeFiles/rebuild_cache.dir
