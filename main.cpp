@@ -7,5 +7,6 @@ int main() {
     cout << "aaa" << endl;
     cout << "bbbb" << endl;
     cout << "cccccc";
+    cout << "ddd" ;
     return 0;
 }
